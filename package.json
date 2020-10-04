@@ -1,0 +1,15 @@
+{
+  "name": "among-us-muting-bot",
+  "version": "1.0.0",
+  "description": "Bot that quickly toggles between muting everyone in a voicechannel",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
