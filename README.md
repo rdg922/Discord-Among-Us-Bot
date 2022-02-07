@@ -1,5 +1,9 @@
 # Among Us Bot
 
+## About
+
+Discord bot that allows for muting, unmuting, and deafening players quickly via chat commands. Use ,help for commands
+
 ## Usage
 Once the bot is up and running, in the designated text channel, run the help command. (include your prefix first!) This will bring up all the commands and what they do
 
